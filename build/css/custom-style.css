@@ -1,0 +1,42 @@
+ /*changes by manoj*/
+.x_title button{
+	border: 0;
+	background-color: #5bc0de;
+	border: 1px solid #46b8da;
+	outline: 0;
+	color: #fff;
+	padding: 7px 12px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	-ms-border-radius:3px;
+	border-radius:3px;
+	margin-bottom:0;
+}
+.x_title button:hover{
+	background-color: #269abc;
+	border-color: transparent;
+}
+.x_title h2{
+	margin:8px 0 0;
+}
+.locationtop-bx button{
+	border: 0;
+	background-color: #5bc0de;
+	border: 1px solid #46b8da;
+	outline: 0;
+	color: #fff;
+	padding: 7px 12px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	-ms-border-radius:3px;
+	border-radius:3px;
+	margin:0 0 10px;
+}
+.locationtop-bx button:hover{
+	background-color: #269abc;
+	border-color: transparent;
+}
+.input-sm{
+	border-radius:5px;
+
+}
